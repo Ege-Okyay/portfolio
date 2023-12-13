@@ -6,6 +6,7 @@ import solidJs from "@astrojs/solid-js";
 import { remarkReadingTime } from "./src/lib/ remark-reading-time.mjs";
 
 export default defineConfig({
+  site: "egeokyay.netlify.app",
   integrations: [
     solidJs(),
     UnoCSS({ injectReset: true }),
