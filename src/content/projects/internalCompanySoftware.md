@@ -11,3 +11,5 @@ I took on the role of **project manager** and **lead developer** of internal sof
 ___
 
 **Skills**: _Flask_ · _Team Leadership_ · _Full-Stack Development_ · _Project Management_ · _REST APIs_ · _Python_ · _API Development_
+
+<br>

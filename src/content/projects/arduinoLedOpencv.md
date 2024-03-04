@@ -8,6 +8,7 @@ category: "intro"
 
 ![Project Screenshot](https://github.com/Ege-Okyay/arduino-led-opencv/raw/main/screenshot.webp)
 
+<br>
 In order to recognize colors from a video input, this project employs a Python script using OpenCV. A byte of data is then sent through the serial connection between the Arduino board and the local computer to activate the correct LED. It shows how to construct and send through in a serial connection, as well as how to make color detection using OpenCV.
 
 ___
@@ -16,8 +17,16 @@ You can experiment with color detection and hardware control, learn a lot about 
 
 ___
 
+**Skills**: _Serial Communications_ · _Arduino_ · _Electronics_ · _Python (Programming Language)_ · _Computer Vision_
+
+___
+
 [**_Source Code_**](https://github.com/Ege-Okyay/arduino-led-opencv)
 
 [**_Youtube Video_**](https://www.youtube.com/watch?v=YwdtDctzKBY)
 
+[**_Video Explanation_**](https://www.youtube.com/watch?v=22cP8r1uF2o&t=220s)
+
 [**_My LinkedIn_**](https://www.linkedin.com/in/ege-okyay)
+
+<br>

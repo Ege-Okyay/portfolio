@@ -11,3 +11,5 @@ Wrote a data scraping library that scrapes data from **multiple APIs + with web 
 ___
 
 **Skills**: _Web Scraping_ · _Object-Oriented Programming (OOP)_ · _PHP_ · _API Development_
+
+<br>
