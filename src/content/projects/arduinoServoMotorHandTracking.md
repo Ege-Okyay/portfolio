@@ -9,9 +9,10 @@ category: "intro"
 ![Project Screenshot](https://github.com/Ege-Okyay/arduino-servo-opencv/raw/main/image.webp)
 
 <br>
+
 I created a project that enables hand gesture recognition using Mediapipe, OpenCV, and Python. I was able to communicate with an Arduino-based servo motor by using the PyFirmata module. I created this project to show how computer vision and hardware control can work together, offering an interactive interface for manipulating the Servo motor using hand gestures.
 
-___
+<br>
 
 Whole project demonstrates the potential of hand-controlled hardware systems and gain valuable experience in the fields of computer vision, hardware integration, and human-computer interaction.
 

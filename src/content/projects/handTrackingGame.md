@@ -7,11 +7,14 @@ category: "intro"
 ---
 
 ![image](https://github.com/Ege-Okyay/opencv-game/raw/main/screenshot.png)
+
 <br>
 
-This is a project that I did to show my knowledge of **Python, sockets and computer vision using Opencv**. Adding these new technologies to the **daily life** is one of my favorite ways to use my skills and this project is one of them!
+This is a project that I did to show my knowledge of Python, sockets, and computer vision using OpenCV. Adding these new technologies to daily life is one of my favorite ways to use my skills and this project is one of them!
 
-I used **Pygame** to make the game then coded a **hand tracking module using Google's Mediapipe library**. After that, I send the x coordinates of the index finger to the game using **socket communications**. Then I **modify those coordinates** to fit the game's and move the player accordingly.
+<br>
+
+I used Pygame to make the game then coded a hand-tracking module using Google’s Mediapipe library. After that, I send the x coordinates of the index finger to the game using socket communications. Then I modify those coordinates to fit the game’s and move the player accordingly.
 
 ___
 
