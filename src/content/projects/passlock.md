@@ -14,7 +14,7 @@ Users may safely save, manage, and retrieve their passwords with Pass-Lock, a co
 
 ___
 
-**Skills**: _Go (Programming Language)_ · _Encryption_
+**Skills**: _Go (Programming Language)_ · _Encryption_ · _Report Writing_
 
 ___
 
