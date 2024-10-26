@@ -18,7 +18,7 @@ ___
 
 ___
 
-[**_Report PDF_**](#)
+[**_Report PDF_**](/documents/Encryption%20Strategies%20for%20Secure%20Key-Value%20Storage%20An%20Analysis%20of%20Modern%20Practices.pdf)
 
 [**_Source Code_**](https://github.com/Ege-Okyay/passlock)
 
